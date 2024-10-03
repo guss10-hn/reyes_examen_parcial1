@@ -1,6 +1,7 @@
 {
   "name": "now-ui-kit-react",
   "homepage": "https://github.com/guss10-hn/reyes_examen_parcial1.git",
+  
   "version": "1.5.2",
   "private": true,
   "dependencies": {
